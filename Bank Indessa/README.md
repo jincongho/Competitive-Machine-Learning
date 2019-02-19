@@ -1,4 +1,4 @@
-# Planet: Understanding the Amazon from Space
+# Bank Indessa from Hackerearth Machine Learning Challenge #1
 
 ## Problem Statement
 
